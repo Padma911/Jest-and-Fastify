@@ -1,0 +1,6 @@
+### GET BLOG DETAILS WITH ID 
+GET http://localhost:3000/blogs/11
+
+
+###
+GET http://localhost:3000/users/1  
